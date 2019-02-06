@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> KAPIL DHINGRA <twitter>
+    KAPIL DHINGRA
+    kapil.spirit@gmail.com
+    Devops Engineer
 
 # THANKS
 
-    <name>
+    Kapil Dhingra
 
 # TECHNOLOGY COLOPHON
 
