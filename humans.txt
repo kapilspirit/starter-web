@@ -3,6 +3,9 @@
 
 Hi I am modifying the file before rebase
 
+Hi, Going to insertconflicts in my feature.
+
+
 # TEAM
 
     KAPIL DHINGRA
