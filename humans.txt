@@ -3,7 +3,10 @@
 
 Hi I am modifying the file before rebase
 
+
 Doing some changes
+Hi, Going to insertconflicts in my feature.
+syappa merging fixing
 
 
 # TEAM
