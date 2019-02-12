@@ -14,7 +14,7 @@ Fork the repor and raise pull request
 
 ## GIT Comparisons
 Adding GIT comparison Lecture
-
+Adding new lecture of stash
 
 
 # $ OLD data
