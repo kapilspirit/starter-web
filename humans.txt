@@ -1,11 +1,12 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi I am modifying the file before rebase
+Hi I am modifying the file before rebase.
 
+Doing some changes in local.
+Adding important notes on GIT stash
 
-Doing some changes
-Hi, Going to insertconflicts in my feature.
+Hi, Going to insert conflicts in my feature Branch.
 syappa merging fixing
 
 
